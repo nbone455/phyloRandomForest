@@ -18,7 +18,4 @@ Overall Error: Generalized error rates are calculated for test data.
 ## Visualization
 Box plots are used for visualizing the error rates across different models.
 
-License
-MIT License
-
 Feel free to clone, modify, and use this code for your research and applications.
