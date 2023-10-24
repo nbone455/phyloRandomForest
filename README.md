@@ -2,8 +2,7 @@
 This R script looks at how Random forest algorithms can be impacted by phylogenetic traits. It's designed to help biologists and data scientists understand the impact of tree-structured trait correlation on classification. The script investigates the impact of removing different types of traits or tree information on the accuracy of the classifier.
 
 ## Model Preparation
-Trait Manipulation: Different configurations of the data are prepared for training the Random Forest models.
-Data Splitting: Data is split into training and test sets.
+
 
 
 ### Random Forest Models
