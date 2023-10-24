@@ -1,2 +1,2 @@
 # phyloRandomForest
-how to account for phylo-correlation with random forest algorithms 
+experiment of how to account for phylogentic correlation in a random forest algorithm. 
