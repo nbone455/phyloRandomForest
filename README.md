@@ -1,5 +1,5 @@
 # phyloRandomForest
-This R script was a part of my Macroevolution graduate level class. It looks at how Random forest algorithms can be impacted by phylogenetic traits. It's designed to help people understand the impact of tree-structured trait correlation on classification/ The script investigates the impact of removing different types of traits or tree information on the accuracy of the classifier.
+This R script was a part of a Macroevolution class project. It looks at how Random forest algorithms can be impacted by phylogenetic traits, and how you can include phylogenetic information to account for this. It's designed to help people understand the impact of tree-structured trait correlation on classification. The script investigates the impact of removing different types of traits or tree information on the accuracy of the classifier.
 
 ## Model Preparation
 
